@@ -1,0 +1,4 @@
+Hospital  Facility are:
+Ambulance
+Admit Facility 
+Canteen
